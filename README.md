@@ -1,4 +1,4 @@
-# Taitanic
+# Titanic
 This project is an analysis of the Titanic dataset using Exploratory Data Analysis (EDA) and various machine learning algorithms. This project aims to predict whether a passenger survived or not based on several features.
 
 
